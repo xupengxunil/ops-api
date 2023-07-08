@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Development directories
+.env
+.venv
+.idea/
+.vscode/
+__pycache__/
+*.egg-info/
+*.egg
+.build/
+dist/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+yarn-error.log
+*.log
+
+# Application directories
+media/
+static/
+uploads/
+venv/
